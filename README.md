@@ -2,7 +2,7 @@
 
 Dependencies:
 DB Info:
-In order to login to the CLI program with credentials please place “jfrog.py” and “task.db” in the same directory. 
+In order to login to the CLI program with credentials please place “cli_program.py” and “task.db” in the same directory. 
 If you are facing any error, please remove “task.db” and run “create_db.py” from the same directory, after running the python script you will see that the db file was created. 
 
 System:
