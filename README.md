@@ -8,6 +8,6 @@ If you are facing any error, please remove “task.db” and run “create_db.py
 System:
 Python 3 with requests package.
 
-3. Credentials to the the CLI program:
+Credentials to the the CLI program:
 Username - admin
 Password - admin
